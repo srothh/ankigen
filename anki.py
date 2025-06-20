@@ -9,7 +9,7 @@ Each tuple must have the form:
 For example, the contents of input.txt might look like:
 
 [
-    ('汉', 'hàn', 'man', 'Mann', '他是一个男人。'),
+    ('男', 'nán', 'man', 'Mann', '他是一个男人。'),
     ('学', 'xué', 'to study', 'lernen', '我喜欢学习中文。'),
     # ... more tuples ...
 ]
